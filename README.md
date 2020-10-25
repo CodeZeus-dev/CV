@@ -6,17 +6,22 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Tribute Page**   | A CodePen.io app built in Javascript, <br>HTML and CSS in tribute to Maria Callas. | JavaScript, HTML, CSS  |
+| **Tideman** | A script that determines the Condorcet<br>winner of an election using the ranked<br>pairs voting method. | C, Graphs, Sorting Algorithms |
+| **dnaA SalmonellaEnterica**   | A Python script that identifies potential<br> Origin of Replication (Ori) locations in<br>the genome of Salmonella Enterica<br>based on dnaA box pattern formation.   | Python, Bioinformatics  |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**iGEM Greece** (Oct '16 - Dec '17)
+<br>_Researcher_
+- Developed a Systems Biology model using Python and Matlab, that determined the temporal and spatial concentration values of an signalling molecule (AHL) during cellular communication via Quorum Sensing
+
+**EnveLab** (start-date to end-date)
+<br>_Data Scientist_
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
+**Cartech** (start-date to end-date)
 _Your job title_
 
 - Any experience relevent to software development
@@ -42,18 +47,36 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct '20 - Jan '21)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Imperial College London (Sep '19 - Sep '20)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc Biomedical Engineering, specialising in Biomaterials & Tissue Engineering
+- Merit
+- Member of Celiz Lab and the Imperial College Choir
+
+#### Aristotle University of Thessaloniki (Oct '13 - Oct '18)
+
+- (4-year) BSc Physics, specialising in Theoretical Physics & Biophysics
+- 2:1
+- Member of the iGEM Greece 2017 team, of EnveLab and of the Laboratory of Applied Physics
+
+#### New Conservatory of Thessaloniki (Oct '16 - Jun '19)
+
+- National Artist Diploma in Lyrical Singing
+- Excellent
+-   Award for Exceptional Artistic Performance (Hellenic Ministry of Culture)
+
+#### Conservatoire of Northern Greece (Sep '07 - Jun '16)
+
+- National Artist Diploma in Classical Piano
+- Merit
+- Pianist in the Conservatory's Symphonic Orchestra
 
 #### Any other qualifications
 
