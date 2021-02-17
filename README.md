@@ -1,14 +1,24 @@
-## Your Name
+## Constantine Akritides
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+***
+
+[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Portfolio](https://www.constantineakritides.dev)
+
+***
+
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Project Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Tribute Page**   | A CodePen.io app built in Javascript, <br>HTML and CSS in tribute to Maria Callas. | JavaScript, HTML, CSS  |
-| **Tideman** | A script that determines the Condorcet<br>winner of an election using the ranked<br>pairs voting method. | C, Graphs, Sorting Algorithms |
 | **dnaA SalmonellaEnterica**   | A Python script that identifies potential<br> Origin of Replication (Ori) locations in<br>the genome of Salmonella Enterica<br>based on dnaA box pattern formation.   | Python, Bioinformatics  |
+| **BragBook** |  | Ruby, Ruby On Rails, RSpec, Bootstrap, Travis CI, SimpleCov, HTML/CSS, PostgreSQL |
+| **MakersBnB - The Empire** || Ruby, Sinatra, HTML/CSS, RSpec, SimpleCov, PostgreSQL, Travis CI, Bootstrap|
+| **Laetus** || Dart, Flutter, Flutter Testing (Unit, Widget, Integration), |
+| **Dating App** || C#, .NET 5, ASP.NET Core, xUnit, Angular 11, Typescript, PostgreSQL (Deployment), SQLite (Development), Heroku|
+| **Tideman** | A script that determines the Condorcet<br>winner of an election using the ranked<br>pairs voting method. | C, Graphs, Sorting Algorithms |
 
 ## Experience
 
@@ -76,7 +86,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - National Artist Diploma in Classical Piano
 - Merit
-- Pianist in the Conservatory's Symphonic Orchestra
+- Pianist in the Conservatory's Symphonic Orchestra and Chamber Music groups
 
 #### Any other qualifications
 
