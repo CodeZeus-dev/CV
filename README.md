@@ -4,7 +4,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ***
 
-[Current Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) | [Contact](#contact) |
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://www.constantineakritides.dev)
 
 ***
