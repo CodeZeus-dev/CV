@@ -22,13 +22,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-
-**EnveLab** (start-date to end-date)
+**EnveLab** (Oct '18 - Jun '19)
 <br>_Research Assistant / Data Analyst_
 
 - Responsibility for the development and optimisation of/ a pharmakokinetic model based on independent studying of PBPK theory using laboratory-derived data to validate the model's behaviour
 - Writing Python scripts to handle sensor-derived experimental data, transforming them so that they can be used in the computational models developed by the team
 - Responsibility for drafting work package deliverables for EU research projects
+
+<br>
 
 **iGEM Greece 2017** (Oct '16 - Dec '17)
 <br>_Undergraduate Researcher_
@@ -38,13 +39,24 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 - Collaborating with a multidisciplinary team from various scientific disciplines
 - Organising meetings and public events for the team inside and outside the university for enhancing the team's outreach
 
-**Self-Employed** ()
-<br>_University-level Tutor_
+<br>
 
+**Self-Employed**
+<br>_University-level Tutor (Quantum Mechanics & Statistical Physics)_ (Sep '15 - Sep '18)
 
+- Planning sessions by revisiting the concept under question, and extracting the most abstract points in it that are then used to build a conceptual model of the phenomenon so that it can be conveyed to the student more effectively
+- Simplifying complex concepts into digestible chunks of information and delivering them to student in the form of discussion and problem-solving-oriented sessions (through exercises and examples)
+- Consolidating knowledge, improving communication and weak spots in the subject area of interest, and self-reflecting by implementing the Feynman Technique
 
-**Self-Employed** ()
-<br>_High School Physics and Maths Tutor_
+<br>_High School Physics and Maths Tutor_ (Sep '15 - Sep '16)
+
+- Responsibility for creating, preparing and delivering study material for the student (e.g. worksheets, exercises, consolidation questions, theory cheatsheets) based on the student's personal needs and goals
+- Preparing students for the National Panhellenic Exams (A levels equivalent in Greece) in Physics and Maths
+- Dedicating time during each lesson to discuss with each student their progress, self-development, worries/concerns
+- Teaching each student how to learn independently by using an active approach in learning rather than a passive one of digesting information
+- Teaching effective and quick problem-solving by showing students how to solve physics and math problems by visualising the problem and then by finding patterns in it that give away the solution or the best next step
+- Responsibility for the student's academic wellbeing and progress
+- Self-learning and development from direct or indirect feedback received from students and their their progress
 
 ## Skills
 
