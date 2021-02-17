@@ -22,19 +22,29 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**iGEM Greece** (Oct '16 - Dec '17)
-<br>_Researcher_
-- Developed a Systems Biology model using Python and Matlab, that determined the temporal and spatial concentration values of an signalling molecule (AHL) during cellular communication via Quorum Sensing
 
 **EnveLab** (start-date to end-date)
-<br>_Data Scientist_
+<br>_Research Assistant / Data Analyst_
 
-- Any experience relevent to software development
+- Responsibility for the development and optimisation of/ a pharmakokinetic model based on independent studying of PBPK theory using laboratory-derived data to validate the model's behaviour
+- Writing Python scripts to handle sensor-derived experimental data, transforming them so that they can be used in the computational models developed by the team
+- Responsibility for drafting work package deliverables for EU research projects
 
-**Cartech** (start-date to end-date)
-_Your job title_
+**iGEM Greece 2017** (Oct '16 - Dec '17)
+<br>_Undergraduate Researcher_
+- Developing a Systems Biology model using Python and Matlab, that determined the temporal and spatial concentration values of an signalling molecule (AHL) during cellular communication via Quorum Sensing
+- Constructing a Computational Fluid Dynamics (CFD) simulation model for examining the flow profile of chymus in the region of an Adenocarcinoma in the Ascending Colon, in order to be able to approximate the E.Coli K-12 bacterial distribution on the tumor
+- Fundraising in order to cover the consumables, supplies and travel costs as well as the branding of the team and any general costs that might have occured; private companies and labs of the Thessaloniki region were recruited as sponsors and contributors after extensive communication, and public research funds were claimed as an additional boost to our project
+- Collaborating with a multidisciplinary team from various scientific disciplines
+- Organising meetings and public events for the team inside and outside the university for enhancing the team's outreach
 
-- Any experience relevent to software development
+**Self-Employed** ()
+<br>_University-level Tutor_
+
+
+
+**Self-Employed** ()
+<br>_High School Physics and Maths Tutor_
 
 ## Skills
 
