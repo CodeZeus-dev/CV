@@ -13,7 +13,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Project Name                         | Description       | Tech Stack     | Testing Technologies |
 | --- | --- | --- | --- |
-| **<a href="https://github.com/CodeZeus-dev/laetus">Laetus</a>** | Cross-Platform Colour Detector Mobile Application developed in Flutter.<br>It can be used by graphic or interior designers, artists, in marketing or possibly even by colour-blind people for detecting a large palette of colours either by capturing real-time camera pictures, or by uploading their own photos directly from their device. | Dart<br>Flutter | Flutter Testing Functionality|
+| **<a href="https://github.com/CodeZeus-dev/laetus" id="Laetus">Laetus</a>** | Cross-Platform Colour Detector Mobile Application developed in Flutter.<br>It can be used by graphic or interior designers, artists, in marketing or possibly even by colour-blind people for detecting a large palette of colours either by capturing real-time camera pictures, or by uploading their own photos directly from their device. | Dart<br>Flutter | Flutter Testing Functionality|
 | **<a href="https://github.com/CodeZeus-dev/acebook-SassBook">BragBook</a>** | BragBook is a social media web application that allows users to connect with friends and share what is going on in their lives. Users can do this through creating posts, uploading a profile picture and adding multiple friends. BragBook also allows users to comment on their friend's post and respond via likes and various emojis. | Ruby/Rails<br>HTML/CSS (w/ Bootstrap)<br>Travis CI<br>PostgreSQL | RSpec<br>SimpleCov |
 | **<a href="https://github.com/CodeZeus-dev/makers-bnb-the-empire">MakersBnB - The Empire</a>** | MakersBnB-The Empire is an online platform where users can create an account, post properties for rental, rent another user's property and all that for a given date on the calendar. The users can choose a property based on the price, the location, the host and the description. | Ruby<br>Sinatra<br>HTML/CSS<br>PostgreSQL<br>Travis CI<br>Bootstrap| RSpec<br>SimpleCov |
 | **<a href="https://github.com/CodeZeus-dev/DatingApp">Dating App</a>** | A dating app that enables a user to create a profile choosing her/his own profile pictures, to navigate through a list of other users and like their photos, send live messages to other users, and see who's online or not. | C#<br>.NET 5<br>ASP.NET Core<br>Angular (v. 11)<br>Typescript<br>PostgreSQL (Deployment)<br>SQLite (Development)<br>Heroku| xUnit |
@@ -80,43 +80,55 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (Oct '20 - Jan '21)
+_Software Engineering Trainee at a highly selective 12-week intensive coding bootcamp_
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD, MVC, DDD, SOLID
+- Agile/ Methodologies
+- HTML/CSS
+- Ruby, Sinatra, Rails, RSpec
+- JavaScript, Jasmine, Node.js, Angular, Express
+- PostgreSQL, MongoDB
+- Software Craftsmanship
+- Independent Learning and Problem-Solving
 
 #### Imperial College London (Sep '19 - Sep '20)
+_Biomedical Engineering (MSc)_
 
-- MSc Biomedical Engineering, specialising in Biomaterials & Tissue Engineering
-- Merit
-- Member of Celiz Lab and the Imperial College Choir
+- Specialised in Biomaterials & Tissue Engineering
+- Graduated with Merit
+- Pursued final MSc Project (Thesis) at Dr. Celiz Lab with the title: 
+  <br>_Intratumoural Multiplexed Drug Wafers for Personalised Chemotherapy_
+- Member of the Imperial College Choir
 
 #### Aristotle University of Thessaloniki (Oct '13 - Oct '18)
+_BSc (Hons) Physics_
 
-- (4-year) BSc Physics, specialising in Theoretical Physics & Biophysics
-- 2:1
-- Member of the iGEM Greece 2017 team, of EnveLab and of the Laboratory of Applied Physics
+- Specialised in Theoretical Physics & Biophysics
+- Graduated in Top 5% of class
+- Member of iGEM Greece 2017
+- BSc Thesis pursued at the Laboratory of Applied Physics (AUTH) with the title:
+  <br>_CFD Analysis of Salivary Rheology in the case of Stensen's Dust Obstruction due to Sialolithiasis_
+- Awarded "Award of Scientific Excellence" by the Dean of the Faculty of Sciences
 
 #### New Conservatory of Thessaloniki (Oct '16 - Jun '19)
 
 - National Artist Diploma in Lyrical Singing
-- Excellent
--   Award for Exceptional Artistic Performance (Hellenic Ministry of Culture)
+- Graduated with a GPA of 10 out of 10 ("Excellent")
+- Award of Exceptional Artistic Performance (Hellenic Ministry of Culture)
+- Tenor Soloist in the first panhellenic performance of _Camille Saint-Saëns, Messe de Requiem op. 54_
 
 #### Conservatoire of Northern Greece (Sep '07 - Jun '16)
 
 - National Artist Diploma in Classical Piano
-- Merit
 - Pianist in the Conservatory's Symphonic Orchestra and Chamber Music groups
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Classical Piano
+- Opera & Singing
+- Foreign Language Learning
+- Tennis
+- Travelling
 
 ## Contact
 - Github: [CodeZeus-dev][1]
