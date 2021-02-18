@@ -1,12 +1,12 @@
 ## Constantine Akritides
 _Junior Software Engineer_
 
-A recent Makers graduate and music practiotioner. Creativity and problem solving are my two driving forces in software engineering. Creativity stems from my music background in classical piano and opera and problem solving stems from my STEM background together with analytical and logical reasoning. I am really passionate about bringing new ideas to life by developing and delivering products with social and commercial impact.
+A recent Makers graduate and music practitioner. Creativity and problem solving are my two driving forces in software engineering. Creativity stems from my music background in classical piano and opera and problem solving stems from my STEM background together with analytical and logical reasoning. I am really passionate about bringing new ideas to life by developing and delivering products with social and commercial impact.
 
 ***
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) | [Contact](#contact) |
-[Portfolio](https://www.constantineakritides.dev)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) | [Contact](#contact) 
+<!-- [Portfolio](https://www.constantineakritides.dev) -->
 
 ***
 
@@ -151,6 +151,6 @@ _BSc (Hons) Physics_
 ## Contact
 - Github: [CodeZeus-dev][1]
 - LinkedIn: [Constantine Akritides](https://www.linkedin.com/in/constantine-akritides)
-- Personal Portfolio: https://www.constantineakritides.dev
+<!-- - Personal Portfolio: https://www.constantineakritides.dev -->
 
 [1]: https://github.com/CodeZeus-dev
