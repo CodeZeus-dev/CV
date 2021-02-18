@@ -29,6 +29,7 @@ A recent Makers graduate and music practiotioner. Creativity and problem solving
 - Responsibility for the development and optimisation of/ a pharmakokinetic model based on independent studying of PBPK theory using laboratory-derived data to validate the model's behaviour
 - Writing Python scripts to handle sensor-derived experimental data, transforming them so that they can be used in the computational models developed by the team
 - Responsibility for drafting work package deliverables for EU research projects
+- Gathered, arranged and corrected research data to create representative graphs and charts highlighting results for presentations.
 
 <br>
 
