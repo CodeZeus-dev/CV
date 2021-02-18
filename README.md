@@ -1,6 +1,7 @@
 ## Constantine Akritides
+_Junior Software Engineer_
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A recent Makers graduate and music practiotioner. Creativity and problem solving are my two driving forces in software engineering. Creativity stems from my music background in classical piano and opera and problem solving stems from my STEM background together with analytical and logical reasoning. I am really passionate about bringing new ideas to life by developing and delivering products with social and commercial impact.
 
 ***
 
@@ -10,7 +11,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 ***
 
 ## Projects
-
 | Project Name                         | Description       | Tech Stack     | Testing Technologies |
 | --- | --- | --- | --- |
 | **<a href="https://github.com/CodeZeus-dev/laetus" id="Laetus">Laetus</a>** | Cross-Platform Colour Detector Mobile Application developed in Flutter.<br>It can be used by graphic or interior designers, artists, in marketing or possibly even by colour-blind people for detecting a large palette of colours either by capturing real-time camera pictures, or by uploading their own photos directly from their device. | Dart<br>Flutter | Flutter Testing Functionality|
@@ -18,7 +18,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **<a href="https://github.com/CodeZeus-dev/makers-bnb-the-empire">MakersBnB - The Empire</a>** | MakersBnB-The Empire is an online platform where users can create an account, post properties for rental, rent another user's property and all that for a given date on the calendar. The users can choose a property based on the price, the location, the host and the description. | Ruby<br>Sinatra<br>HTML/CSS<br>PostgreSQL<br>Travis CI<br>Bootstrap| RSpec<br>SimpleCov |
 | **<a href="https://github.com/CodeZeus-dev/DatingApp">Dating App</a>** | A dating app that enables a user to create a profile choosing her/his own profile pictures, to navigate through a list of other users and like their photos, send live messages to other users, and see who's online or not. | C#<br>.NET 5<br>ASP.NET Core<br>Angular (v. 11)<br>Typescript<br>PostgreSQL (Deployment)<br>SQLite (Development)<br>Heroku| xUnit |
 | **<a href="https://github.com/CodeZeus-dev/Chitter-MEAN">Chitter</a>** | An online platform where users can create accounts and post peeps (eq. tweets) that other users can see, and in case a user is tagged in a peep, she/he receives an email as notification. | JavaScript/TypeScript<br>Node.js<br>MongoDB<br>Express.js<br>Angular (v. 11)<br> | Jasmine | 
-<!-- | **Tideman** | A script that determines the Condorcet<br>winner of an election using the ranked<br>pairs voting method. | C, Graphs, Sorting Algorithms | -->
+
+***
 
 ## Experience
 
@@ -58,24 +59,35 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 - Responsibility for the student's academic wellbeing and progress
 - Self-learning and development from direct or indirect feedback received from students and their their progress
 
+***
+
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**Problem Solving**
 
-#### This Skill
+I am actively coordinating my problem-solving process using the Feynman Technique, and in deadlock scenarios I tend to coordinate my problem solving process based on the Bransford and Stein's IDEAL model. Planning both BSc and MSc Theses in an attempt to tackle novel ideas with limited support from literature, required an innate ability to identify the main idea behind the project, define the obstacles presented during planning, and decide how to proceed further by re-tuning decisions based on feedback after each course of action. During the group projects at Makers, I applied my skills by clearly defining the problem of each project and by breaking it down into smaller compartments, after having understood the requirements from an abstract perspective. Thinking of data flow while designing and then, developing an application enables me to visualise the problem and conceptualise data patterns.
 
-- Experience
-- Achievements
-- Evidence
+**Teamwork**
 
-#### Another Skill
+In a team environment, I find the idea of leading the team quite motivating and refreshing. I am competent in bringing innovative ideas to the table and being able to share them with my team, as well as actually implementing those ideas by getting my hands dirty. Keeping a healthy and supportive team environment, by listening to everyone's concerns/arguments and/or ideas, is also a priority as it enables everyone to feel comfortable and listened to and thus, communicate effectively and boost the team's productivity n-fold. The proofs of all aforementioned statements are the successful group projects while at Makers and the success of iGEM Greece 2017, being a multidisciplinary team that started with 0 resources and managed to win a gold medal in the iGEM Competition.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+**Leadership**
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I am willing to inspire others with my ideas and goals and guide them towards achieving those in a cooperative and inspirational environment. Being a good leader is determined by the success of my team and the relationships built within it between its members and by the commitment the leader inspires. My innate source of motivation, enthusiasm and determination is a driving force for teams and individuals, which during stagnation or troubleshooting and crisis-handling within a team, can be the decisive factor in the team's success.
+
+**Empathy**
+
+As I have then need to feel listened to and to be understood by others, equally so I tend to empathise with people around me and I am trying to understand how they're feeling and relate to them as that brings us closer. Coming from a wide range of backgrounds and experiences (STEM, music, teaching), I have encountered multiple types of personalities and hidden gems in people in such a way that it made me more sympathetic and able to spot "the fine print" of each person a lot easier. I enjoy the process of getting to know new people and personalities.
+
+**Creativity**
+
+Music has been the protagonist in my artistic and cultural upbringing and nurturing in such a way that it feels as if it provided me with an extra pair of eyes that enables me to look at things from a more holistic perspective and with open-mindedness. Every new problem for me is like a new puzzle or riddle I need to solve not by following templates necessarily, but rather, by finding patterns in the problem that could potentially lead to its solution. For instance, in software engineering, this has enabled me to achieve a much more elegant and efficient OOD, smooth data flow in-between components and services, and dividing a problem into smaller entities with clear responsibilities.
+
+**Strategic Adaptability**
+
+In previous professional environments (iGEM, EnveLab) as well as in group projects, always feeling listened-to or being able to effectively communicate with everyone and being able to convince people proved impossible. For instance, I once tried to convey the message to my team that I wanted to work on a specific user story and feature of the application (authentication), but noticed that other 2 members wanted to claim the same feature. I had to decide on whether I would keep on arguing about the feature or choose a different one to work on. The answer was clear, wasting time in arguing about choosing a feature instead of implementing it was pointless. Thus, I decided to work on another feature (posts) in which my sufficient-for-the-project knowledge of SQL would accelerate the process even further. That way, I strategically adapted to a situation where the decision would eventually determine the smooth development of the application.
+
+***
 
 ## Education
 
@@ -122,6 +134,8 @@ _BSc (Hons) Physics_
 - National Artist Diploma in Classical Piano
 - Pianist in the Conservatory's Symphonic Orchestra and Chamber Music groups
 
+***
+
 ## Interests
 
 - Classical Piano
@@ -129,6 +143,9 @@ _BSc (Hons) Physics_
 - Foreign Language Learning
 - Tennis
 - Travelling
+
+
+***
 
 ## Contact
 - Github: [CodeZeus-dev][1]
